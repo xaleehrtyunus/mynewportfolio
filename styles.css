@@ -1,0 +1,29 @@
+.text {
+  background-image: url(./images/);
+  color: #172B4D;
+}
+  .nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+}
+.connect {
+  color: #7F8CFF;
+}
+.logo {
+  font-weight: bolder;
+  color: #7F8CFF;
+  text-decoration: none;
+}
+.name {
+  padding-top: 150px;
+  width: 80%;
+}
+.icons {
+  width: 45%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
