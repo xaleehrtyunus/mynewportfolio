@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://xaleehrtyunus.github.io/portfolio/)
+[Live Demo Link](https://github.com/xaleehrtyunus/mynewportfolio/pull/1)
 
 
 ## Getting Started
