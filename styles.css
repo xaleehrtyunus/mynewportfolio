@@ -1,5 +1,10 @@
+body {
+background-image: url("./images/mainbackground.png");
+background-repeat: no-repeat;
+background-position: left top;
+}
+
 .text {
-  background-image: url(./images/);
   color: #172B4D;
 }
   .nav {
@@ -7,23 +12,38 @@
   justify-content: space-between;
   align-items: center;
   background-color: white;
+  margin-inline: 1em;
 }
 .connect {
   color: #7F8CFF;
 }
+
 .logo {
-  font-weight: bolder;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
   color: #7F8CFF;
   text-decoration: none;
+  font-size: 18px;
 }
+
 .name {
   padding-top: 150px;
   width: 80%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 52px;
 }
+
 .icons {
   width: 45%;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-top: 10px;
+}
+
+.text,
+.icons {
+  margin-inline-start: 1em;
 }
