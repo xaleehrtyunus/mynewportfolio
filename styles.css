@@ -1,28 +1,28 @@
 body {
-background-image: url("./images/mainbackground.png");
-background-repeat: no-repeat;
-background-position: left top;
+  background-image: url("./images/mainbackground.png");
+  background-repeat: no-repeat;
+  background-position: left top;
 }
 
 .text {
-  color: #172B4D;
+  color: #172b4d;
 }
-  .nav {
+
+.nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: white;
-  margin-inline: 1em;
 }
 
 .connect {
-  color: #7F8CFF;
+  color: #7f8cff;
 }
 
 .logo {
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
-  color: #7F8CFF;
+  color: #7f8cff;
   text-decoration: none;
   font-size: 18px;
 }
